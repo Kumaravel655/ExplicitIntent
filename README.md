@@ -1,5 +1,7 @@
-# ExplicitIntent
- create two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+### EX NO: 02(b)
+### DATE: 
+# <p align="center"> ExplicitIntent</p>
+
  ### AIM
  display factorial number using Explicit Intents in Android Studio.
 
@@ -134,7 +136,6 @@ public class MainActivity2 extends AppCompatActivity {
 Output
 ![image](https://user-images.githubusercontent.com/75235334/165326457-820c8fd6-4c9a-4f6a-b9f9-8b2742f3496f.png)
 ![image](https://user-images.githubusercontent.com/75235334/165326491-ba8f1a4d-b18f-49b2-8f0b-4b4af55b9185.png)
-
 
 ## result
 display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
